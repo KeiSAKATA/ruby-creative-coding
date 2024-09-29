@@ -8,7 +8,7 @@ ruby製のロゴです。
 
 ## クイックスタート
 ```
-git clone 
+git clone git@github.com:KeiSAKATA/ruby-creative-coding.git
 ```
 ```
 cd ruby-creative-coding
